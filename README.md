@@ -52,11 +52,7 @@
 - 📝 **Description:** Develop a business plan for Edunext Global  
 - ✅ **Key Contributions:**  
   - *(Midterm)* Led *Empathize* phase, built user personas, identified pain points; praised by lecturer for insight and clarity.  
-  - *(Final)* Created marketing plan including industry, competitor, and customer analysis; proposed 4Ps strategy aligned with target segments.  
-- 🎯 **Results:** Applied design thinking process and market research skills to solve real startup problems.  
-
-### 🏢 Inventory System for Star Event Center  
-📅 *June 2025*  
+  - *(Final)* Created marketing plan including industry, competitor, and customer analysis; proposed 4Ps strategy aligned with ta2024*  
 👥 **Role:** Member  
 🛠️ **Tools:** SQL  
 📊 **Methods:** REA Modeling, Business Process Modeling  
