@@ -11,6 +11,7 @@
 📚 Relevant Coursework: Machine Learning, Statistics, Databases, Programming, Data Visualization
 
 ---
+
 ## 🧰 Skills
 
 ### 📈 Business & Analytical:
@@ -29,8 +30,8 @@
 
 ### 🌐 Languages:
 **English:** B2 Aptis certified
-
 ---
+
 ## 🧪 Academic Projects
 
 ### 💡 NextGen Online Learning Management System  
@@ -52,12 +53,14 @@
 - 📝 **Description:** Develop a business plan for Edunext Global  
 - ✅ **Key Contributions:**  
   - *(Midterm)* Led *Empathize* phase, built user personas, identified pain points; praised by lecturer for insight and clarity.  
-  - *(Final)* Created marketing plan including industry, competitor, and customer analysis; proposed 4Ps strategy aligned with ta2024*  
+  - *(Final)* Created marketing plan including industry, competitor, and customer analysis; proposed 4Ps strategy aligned with target segments.  
+- 🎯 **Results:** Applied design thinking process and market research skills to solve real startup problems.  
+
+### 🏢 Inventory System for Star Event Center  
+📅 *June 2024*  
 👥 **Role:** Member  
 🛠️ **Tools:** SQL  
 📊 **Methods:** REA Modeling, Business Process Modeling  
 
 - ✅ **Key Contributions:** Built REA and business process models; proposed improvements for inventory tracking.  
 - 🎯 **Results:** Gained hands-on experience in business process modeling and documentation. Strengthened understanding of REA framework and process analysis in enterprise systems.
-
----
