@@ -55,7 +55,7 @@
   - *(Final)* Created marketing plan including industry, competitor, and customer analysis; proposed 4Ps strategy aligned with target segments.  
 - 🎯 **Results:** Applied design thinking process and market research skills to solve real startup problems.  
 
-### 🏢 [Enterprise IS] Inventory System for Star Event Center  
+### 🏢 Inventory System for Star Event Center  
 📅 *June 2025*  
 👥 **Role:** Member  
 🛠️ **Tools:** SQL  
