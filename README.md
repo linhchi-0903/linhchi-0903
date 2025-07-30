@@ -30,6 +30,7 @@
 
 ### 🌐 Languages:
 **English:** B2 Aptis certified
+
 ---
 
 ## 🧪 Academic Projects
